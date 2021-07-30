@@ -1,0 +1,20 @@
+.container{
+    background: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 50, 0.5));
+    margin-top: 10%;
+    text-align: center;
+}
+body{
+    background-image: url("../img/about.jpg");
+    background-size: cover;
+}
+.font{
+    color: #7abaff;
+
+}
+.form-control{
+    margin-left: 40%;
+}
+.x{
+    text-align: center;
+    margin-left: 40%
+}
